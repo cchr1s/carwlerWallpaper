@@ -35,7 +35,7 @@ function carwler (url) {
             'Accept-Language': 'zh-CN,zh;q=0.9',
             'Cache-Control': 'max-age=0',
             'Connection': 'keep-alive',
-            'Cookie': '__utmc=30129849; __utmz=30129849.1530340351.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); ae74935a9f5bd890e996f9ae0c7fe805=q5vS1ldKBFw%3Dp44GSXQjC30%3DSjmEO5tTJZ8%3DK1s%2BVg%2FcFfI%3Daa0wj%2BrGoS4%3DlopdREWA8%2B4%3DRDVANPvWyEM%3D7evY6A%2B0CKU%3D; __qca=P0-1053864982-1530342272822; PHPSESSID=7f83075bec0945672c5db267a5e435ce; __utma=30129849.1375087240.1530340349.1530430221.1530435408.8',
+            'Cookie': cookie,
             'Host': 'wallpaperswide.com',
             'Referer': url,
             'Upgrade-Insecure-Requests': 1,
